@@ -1,21 +1,17 @@
- ![Image Placememt](img/Arista_Logo_copy.png)
+ ![Image Placememt](arista-federal-logo.png)
 
+# Arista March Federal Newsletter
 
-# Arista March Southwest Region Newsletter
-
-Welcome to the March 2025 newsletter for Arista customers in the U.S. Southwest Region!
+Welcome to the March 2025 newsletter for Arista customers in the U.S. Federal!
 
  
-We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to southwest@arista.com.  
+We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to federal@aristafederal.com.  
 
-You're invited to out Southwest Users Group event on March 26, 2025! Learn how modern network practices are orchestrated through Arista Validated Designs. Sign up for the event below:  
-
-[Arista Southwest User Group Sign up Link](https://events.arista.com/2025-03-26-q1-southwest-users-group)  
 
 ---
 
 ## **Arista Ethernetlink Portfolio for AI Networking**
-By: Salman Zahid, Director of Systems Engineering, Southwest Region  
+By: Salman Zahid, Director of Systems Engineering, Federal  
 
 In the rapidly evolving world of Artificial Intelligence, network performance can make or break the success of AI initiatives. Arista Networks has stepped up to this challenge with its groundbreaking Etherlink AI platforms (a set of hardware platforms and a suite of software capabilities in Arista EOS and CloudVision), offering a comprehensive solution for high-performance AI networking.  
 
@@ -100,7 +96,7 @@ For more information, check these resources:
 ---
 
 ## **Managing Bug and Threat Compliance in the Modern Network** 
-By: Alex Bojko, Advanced Services Engineer, Southwest Region  
+By: Alex Bojko, Advanced Services Engineer, Federal  
 
 Keeping a production network in compliance can prove to be a challenging task, especially when it comes to managing bugs and CVE's (Common Vulnerabilities and Exposures) on our network infrastructure. For starters, there can be a wide range of devices deployed in a network, many of which are running various versions of code. Bugs and Security Advisories are unpredictable, and keeping track of them across a wide range of devices and code can become cumbersome. Failing to bring devices into compliance can result in network downtime, outages, and a vulnerable network.   
 
