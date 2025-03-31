@@ -1,4 +1,4 @@
- ![Image Placememt](arista-federal-logo.png)
+ ![Image Placememt](img/arista-federal-logo.pngarista-federal-logo.png)
 
 # Arista March Federal Newsletter
 
