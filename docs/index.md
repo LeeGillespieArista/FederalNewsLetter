@@ -1,8 +1,8 @@
  ![Image Placememt](img/arista-federal-logo.png)
 
-# Arista March Federal Newsletter
+# Arista April Federal Newsletter
 
-Welcome to the March 2025 newsletter for Arista customers in the U.S. Federal!
+Welcome to the April 2025 newsletter for Arista customers in the U.S. Federal!
 
  
 We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to federal@aristafederal.com.  
